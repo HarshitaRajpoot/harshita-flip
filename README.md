@@ -1,4 +1,4 @@
-![Final Preview ](https://harshita-flip.harshitarajpoot.repl.co/)
+https://harshita-flip.harshitarajpoot.repl.co/
 
 
 # How to run on repl.it
