@@ -1,3 +1,6 @@
+![Final Preview ](https://harshita-flip.harshitarajpoot.repl.co/)
+
+
 # How to run on repl.it
 
 1. Press run button on the top middle ( issa big green tab xD )
@@ -14,4 +17,3 @@ This project uses React, JSX and CSS. It is built with only two React components
 
 :thumbsup: 
 
-![final preview ](https://harshita-flip.harshitarajpoot.repl.co/)
